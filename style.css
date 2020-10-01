@@ -1,0 +1,27 @@
+.VL{
+    border-left: 4px solid black;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0%;
+}
+#CR{
+    float:right;
+    margin-top: -450px;
+    margin-bottom: 0px;
+    margin-left: -100%;
+   
+}
+#LG{
+    float:right;
+    margin-top: -300px;
+    margin-left: -100%;
+    margin-bottom: 0px;
+   margin-right: 10px;
+    
+}
+span{
+    color: lightcoral;
+}
